@@ -44,7 +44,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yujin-shin-hub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yujin-Shin-hub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -52,9 +52,9 @@
 ### 🐍 My Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yujin-shin-hub/yujin-shin-hub/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yujin-shin-hub/yujin-shin-hub/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yujin-shin-hub/yujin-shin-hub/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yujin-Shin-hub/Yujin-Shin-hub/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yujin-Shin-hub/Yujin-Shin-hub/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Yujin-Shin-hub/Yujin-Shin-hub/output/github-snake.svg" />
 </picture>
 
 ---
