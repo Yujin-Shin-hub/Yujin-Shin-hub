@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=9b8ec4,b8a9d9,d4cce8&height=200&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Yujin's%20GitHub&descAlignY=58&descSize=20&descColor=f0eeff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=f9f871,a8e063,56ab2f&height=200&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Yujin's%20GitHub&descAlignY=58&descSize=20&descColor=ffffff)
 
 </div>
 
@@ -61,6 +61,6 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=9b8ec4,b8a9d9,d4cce8&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=f9f871,a8e063,56ab2f&height=100&section=footer)
 
 </div>
